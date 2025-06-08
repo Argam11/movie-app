@@ -67,7 +67,7 @@ The application follows a clean and modular architecture:
 1. Clone the repository
 
 ```bash
-git clone [repository-url]
+git clone git@github.com:Argam11/movie-app.git
 ```
 
 2. Install dependencies
